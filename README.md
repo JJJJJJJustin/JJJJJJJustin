@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJJJJJJustin&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JJJJJJJustin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=JJJJJJJustin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![JJJJJJJustin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JJJJJJJustin&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
